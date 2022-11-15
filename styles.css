@@ -1,0 +1,43 @@
+html, body {
+  border-radius: 50px;
+}
+
+p, h2, h3 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+p {
+  font-size: 0.75rem;
+}
+
+a {
+  color: #36AA9C;
+  text-decoration: none;
+}
+
+#title {
+  font-weight: 300;
+  font-size: 1rem;
+  color:#4f4f4f
+}
+
+#answer {
+  font-size: 2.0rem;
+}
+
+#about {
+  font-weight: 300;
+}
+
+#main-div {
+  width: 300px;
+  min-width: 300px;
+  max-width: 400px;
+  margin: auto;
+}
+
+img {
+  border-radius: 5%;
+}
